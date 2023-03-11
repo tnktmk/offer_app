@@ -1,0 +1,23 @@
+.top_visual {
+  position: relative;
+}
+
+.top_visual_content {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+/* .top_visual_title {
+  font-size: 60px;
+  font-weight: bold;
+  color:rgba(248, 218, 114, 1);
+  text-shadow: 2px 2px 4px rgb(108, 95, 50);
+} */
+
+/* .top_visual_text {
+  font-size: 30px;
+  color: rgba(248, 218, 114, 1);
+  text-shadow: 2px 2px 4px rgb(108, 95, 50);
+} */
+
